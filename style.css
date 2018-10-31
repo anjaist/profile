@@ -102,6 +102,7 @@ ul {
 #profile-pic {
   height: 100px;
   border-radius: 50%;
+  border: 3px inset #7ebcb5;
 }
 
 #sidebar {
